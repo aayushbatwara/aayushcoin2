@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 src/version.cpp export-subst
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> ef2d064b2b83eb0fe4f66d1baaecaaf34f0e2e8d
